@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+  <loc>https://www.valerietaylor.co.uk/</loc>
+  <image:image>
+     <image:loc>https://www.valerietaylor.co.uk/img/main/One.jpg</image:loc>
+  </image:image>
+  <image:image>
+     <image:loc>https://www.valerietaylor.co.uk/img/main/Two.jpg</image:loc>
+  </image:image>
+  <image:image>
+     <image:loc>https://www.valerietaylor.co.uk/img/main/Three.jpg</image:loc>
+  </image:image>
+  <lastmod>2023-09-06T14:49:44+00:00</lastmod>
+</url>
+<url>
+  <loc>https://www.valerietaylor.co.uk/about</loc>
+  <lastmod>2023-09-06T14:49:44+00:00</lastmod>
+</url>
+<url>
+  <loc>https://www.valerietaylor.co.uk/privacypolicy</loc>
+  <lastmod>2023-09-06T14:49:44+00:00</lastmod>
+</url>
+
+
+</urlset>
